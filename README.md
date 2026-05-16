@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 
-<h3 align="center">
-Full Stack MERN Developer | Interactive UI Builder | Exploring GenAI & 3D Web Technologies
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Interactive+UI+Builder;Exploring+GenAI+%26+3D+Web+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh-749&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- ⚛️ Building modern MERN stack applications  
-- 🎨 Creating immersive UI experiences with GSAP & Three.js  
-- 🤖 Exploring Generative AI & TensorFlow.js  
-- ☁️ Currently learning AWS & Kubernetes  
-- 🚀 Passionate about modern frontend engineering  
+- ⚛️ Building scalable MERN stack applications  
+- 🎨 Crafting immersive UI experiences using GSAP & Three.js  
+- 🤖 Exploring Generative AI and TensorFlow.js  
+- ☁️ Learning AWS, Kubernetes & modern deployment workflows  
+- 🚀 Focused on blending creativity with engineering  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,firebase,aws,threejs,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,firebase,aws,threejs,vscode" />
 </p>
 
 ---
@@ -29,11 +31,9 @@ Full Stack MERN Developer | Interactive UI Builder | Exploring GenAI & 3D Web Te
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-749&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-749&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-749&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-749&layout=compact&theme=transparent&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ Full Stack MERN Developer | Interactive UI Builder | Exploring GenAI & 3D Web Te
 <p align="left">
 
 <a href="https://github.com/Rishabh-749" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
 </p>
