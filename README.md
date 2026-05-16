@@ -1,93 +1,55 @@
-# Hi there, I'm Rishabh 👋
+<h1 align="center">Hi 👋, I'm Rishabh</h1>
 
-### Full Stack MERN Developer | Building Interactive Web Experiences | Exploring GenAI & 3D Web Technologies
+<h3 align="center">
+Full Stack MERN Developer | Interactive UI Builder | Exploring GenAI & 3D Web Technologies
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer focused on building scalable, visually engaging, and interactive web applications.
-
-I enjoy combining modern frontend experiences with backend engineering and AI-powered ideas.
-
-- ⚛️ MERN Stack Development
-- 🎨 Interactive UI & Animations
-- 🌌 3D Web Experiences
-- 🤖 Exploring Generative AI
-- ☁️ Learning Cloud & DevOps
+- ⚛️ Building modern MERN stack applications  
+- 🎨 Creating immersive UI experiences with GSAP & Three.js  
+- 🤖 Exploring Generative AI & TensorFlow.js  
+- ☁️ Currently learning AWS & Kubernetes  
+- 🚀 Passionate about modern frontend engineering  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- SCSS
-- GSAP
-- Three.js
+<p align="left">
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,firebase,aws,threejs,vscode" />
 
-### Database
-- MongoDB
-- Mongoose
-
-### AI / ML
-- TensorFlow.js (Basics)
-- GenAI Exploration
-
-### Tools & Platforms
-- Git
-- GitHub
-- Firebase
-- ImageKit
-- AWS (Learning)
-- Kubernetes (Learning)
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 Insta-Clone-MERN
-Modern MERN-based social media platform featuring authentication, image uploads, responsive UI, and scalable architecture.
+<p align="center">
 
-### 🔹 GTA6-Concept-UI
-Immersive GTA VI-inspired landing page built using React, Tailwind CSS, and modern frontend animation techniques.
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-749&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-### 🔹 AuraCare
-Healthcare-focused web platform with modern UI and responsive user experience.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-749&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-### 🔹 Reactify *(In Progress)*
-Spotify-inspired modern music player built using React and dynamic playlist architecture.
-
-### 🔹 Sanskruti AI *(In Progress)*
-AI-powered cultural storytelling platform blending Indian heritage with immersive 3D experiences.
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh-749&show_icons=true&theme=tokyonight)
+<p align="left">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-749&layout=compact&theme=tokyonight)
+<a href="https://github.com/Rishabh-749" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Rishabh-749
-- LinkedIn: Coming Soon
-- Portfolio: Coming Soon
+</p>
 
 ---
 
-⭐ Passionate about building impactful digital experiences through creativity, engineering, and modern web technologies.
+<p align="center">
+⭐ Building impactful digital experiences through creativity & engineering.
+</p>
