@@ -28,28 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-749&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-749&layout=compact&theme=transparent&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Rishabh-749" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-</p>
-
----
-
 <p align="center">
 ⭐ Building impactful digital experiences through creativity & engineering.
 </p>
